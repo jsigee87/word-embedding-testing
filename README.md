@@ -33,3 +33,10 @@ WS-353
 
 SimLex
 <a href="http://www.cl.cam.ac.uk/~fh295/simlex.html#">http://www.cl.cam.ac.uk/~fh295/simlex.html#</a>
+
+---
+## GloVe
+
+Here are the GloVe embeddings used as a baseline.
+
+<a href="https://nlp.stanford.edu/projects/glove/">https://nlp.stanford.edu/projects/glove/</a>
