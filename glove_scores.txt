@@ -1,0 +1,14 @@
+Scores from embeddings loaded from ../data/glove_dict
+
+MTurk:	0.12820364280496163
+Number of words not found:	0
+
+WS_353:	0.09784469488834567
+Number of words not found:	18
+
+MEN:	0.0749524776870369
+Number of words not found:	0
+
+SimLex:	0.06697507726597787
+Number of words not found:	0
+
